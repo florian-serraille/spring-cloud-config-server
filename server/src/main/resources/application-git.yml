@@ -1,0 +1,7 @@
+spring:
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/florian-serraille/spring-cloud-config-server
+          search-paths: config-store
