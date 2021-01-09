@@ -3,4 +3,4 @@ spring:
     config:
       server:
         native:
-          search-locations: ${HOME}/dev/playground/spring-cloud-config-server/server/src/main/resources/config
+          search-locations: ${HOME}/Documents/dev/playground/spring-cloud-config-server/server/src/main/resources/config
